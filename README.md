@@ -38,13 +38,7 @@
 
 ## 🛠️ Installation & Setup
 
-1.  **Clone the Repository**
-    ```bash
-    git clone https://github.com/AgamPandey133/Teachmate.git
-    cd Teachmate
-    ```
-
-2.  **Setup Backend**
+1.  **Setup Backend**
     ```bash
     cd backend
     npm install
@@ -52,7 +46,7 @@
     npm run dev
     ```
 
-3.  **Setup Frontend**
+2.  **Setup Frontend**
     ```bash
     cd frontend
     npm install
